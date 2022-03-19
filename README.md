@@ -1,3 +1,3 @@
-# carbon-island
+# plastic-island
 
-https://ricky-liao.github.io/carbon-island/
+https://ricky-liao.github.io/plastic-island/
